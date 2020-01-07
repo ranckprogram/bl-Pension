@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "待报备详情",
+    "navigationBarBackgroundColor": "#B1863A",
+    "backgroundColor": "#fff"
+  },
+  "usingComponents": {
+    "title": "/components/title",
+    "panel": "/components/panel"
+  }
+}

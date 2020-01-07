@@ -1,0 +1,1 @@
+<view class="panel"><slot></slot></view>

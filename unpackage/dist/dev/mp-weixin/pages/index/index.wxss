@@ -1,0 +1,93 @@
+
+.content {
+}
+.bg {
+	background-color: #B1863A;
+	height: 140rpx;
+}
+.card {
+	position: relative;
+	text-align: center;
+	background-color: #fff;
+	padding-top: 70rpx;
+	margin: -70rpx 30rpx 30rpx;
+	border-radius: 10rpx;
+	box-shadow:0px 2px 22px 0px rgba(157,157,157,0.28);
+}
+.avatar {
+	position: absolute;
+	top: -50rpx;
+	left: 50%;
+	margin-left: -50rpx;
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+.username {
+	font-size: 32rpx;
+}
+.uni-flex {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.flex-item {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.advisor {
+	border-top: 1px solid #E5E5E5;
+	margin:  30rpx;
+	border-radius: 10rpx;
+	margin-bottom: 30rpx;
+}
+.advisor-left {
+	width: 68rpx;
+	text-align: left;
+	padding: 30rpx 0;
+	font-size: 0;
+}
+.advisor-avatar {
+	display: inline-block;
+	width: 68rpx;
+	height: 68rpx;
+	vertical-align: middle;
+	margin-right: 12rpx;
+}
+.advisor-info {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+}
+.time {
+	font-size: 24rpx;
+	color: #999;
+	float: right;
+	margin-top: 50rpx;
+}
+.jobname {
+	font-size: 22rpx;
+	color: #C7C7C7;
+}
+.demand {
+	height: 500rpx;
+	margin: 0 30rpx;
+	background-color: #fff;
+}
+.list-item {
+	margin-bottom: 30rpx;
+}
+.list-item .label {
+	float: left;
+	width: 128rpx;
+	color: #C7C7C7;
+	font-size: 32rpx;
+}
+.list-item .value {
+	display: block;
+	color: #333333;
+	font-size: 32rpx;
+	margin-left: 148rpx;
+}
+
